@@ -4,6 +4,7 @@ Group25-Photo sharing social network
 Photo-sharing social network is a vibrant and user-friendly photo-sharing social network designed to connect people through the art of visual storytelling. With PhotoShare, users can effortlessly register, upload their favorite photos, tag friends to share moments, explore a diverse array of images, and engage in lively discussions through comments.
 
 Key Features:
+
 User Registration:
 
 Simple and quick registration process for users to join the community.
