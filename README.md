@@ -10,11 +10,11 @@ User Registration:
 Simple and quick registration process for users to join the community.
 Photo Upload:
 
-Seamlessly upload and share your memorable photos with others.
+Seamlessly uploads and share your memorable photos with others.
 Tagging Friends:
 
 Enhance social connections by tagging friends in your shared photos.
-Explore Feed:
+Explore Feeds:
 
 Discover a curated feed of captivating photos from other users.
 Comments:
